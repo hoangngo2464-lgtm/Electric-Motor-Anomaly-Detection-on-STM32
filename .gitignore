@@ -1,0 +1,32 @@
+# STM32 Build Artifacts
+**/Debug/
+**/Release/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.d
+*.su
+
+# IDE project local settings
+**/.settings/
+*.launch
+.metadata/
+
+# Archives & Temporary files
+*.rar
+*.zip
+*.7z
+*.bak
+*.tmp
+
+# Python cache & environments
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
